@@ -1,4 +1,4 @@
-# README: Speech-to-Text and Text-to-Speech Conversion with OpenAI
+# Speech-to-Text and Text-to-Speech Conversion with OpenAI
 
 This repository contains Python code that utilizes OpenAI's GPT-3 and Whisper models to perform Speech-to-Text (STT) and Text-to-Speech (TTS) conversions. The code records audio, transcribes it using OpenAI's Whisper STT model, generates a response using GPT-3, and converts the response text into speech using OpenAI's TTS model. This README provides an overview of the code and its usage.
 
